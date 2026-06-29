@@ -1,18 +1,5 @@
-# Opportunity Radar
+# Agentic Opportunity Intelligence Platform
 
-## Team Details
-
-### Team Name
-
-Opportunity Radar
-
-### Team Members
-
-| Name        | Roll Number | Branch |
-| ----------- | ----------- | ------ |
-| V. Shreni   | 23071A0564  | CSE    |
-| M. Akshara  | 23071A0538  | CSE    |
-| E. Poojitha | 23071A0514  | CSE    |
 
 ---
 ## Project Overview
@@ -42,11 +29,6 @@ Opportunity Radar automates this workflow using a dynamic multi-agent architectu
 
 By combining AI planning, agent collaboration, shared memory, and human oversight, Opportunity Radar transforms opportunity discovery into an intelligent and scalable process.
 
-## GitHub Repository
-
-Repository Link:
-
-https://github.com/shrenirao/opportunity-radar
 
 ---
 
